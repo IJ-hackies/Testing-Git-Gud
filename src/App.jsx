@@ -106,7 +106,7 @@ function App() {
                 >
                   <use href="/icons.svg#bluesky-icon"></use>
                 </svg>
-                Bluesky
+                Blue
               </a>
             </li>
           </ul>
