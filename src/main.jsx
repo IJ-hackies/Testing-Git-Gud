@@ -9,6 +9,3 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>,
 )
 
-doesnothing() // frfr
-doesnothingtoo() // frfr
-veryusefulfunctioniswearthisfunctionmakesabigdifference()
