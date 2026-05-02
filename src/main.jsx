@@ -11,3 +11,4 @@ createRoot(document.getElementById('root')).render(
 
 doesnothing() // frfr
 doesnothingtoo() // frfr
+veryusefulfunctioniswearthisfunctionmakesabigdifference()
