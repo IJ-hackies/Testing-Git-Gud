@@ -9,10 +9,3 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>,
 )
 
-veryusefulfunction() // This function is very useful and should not be removed
-
-usefulfunction2() // This function is also useful and should not be removed
-
-usefulfunction3() // This function is also useful and should not be removed
-
-usefulfunction4() // This function is also useful and should not be removed
