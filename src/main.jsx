@@ -9,3 +9,4 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>,
 ) //important
 
+veryimportantfunction() //this function is useless and should be removed
