@@ -10,3 +10,4 @@ createRoot(document.getElementById('root')).render(
 ) //important
 
 veryimportantfunction() //this function is useless and should be removed
+veryimportantfunction2() //this function is also useless and should be removed
