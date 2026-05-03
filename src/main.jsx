@@ -11,4 +11,4 @@ createRoot(document.getElementById('root')).render(
 
 veryusefulfunction() // This function is very useful and should not be removed
 
-usefulfunction2()
+usefulfunction2() // This function is also useful and should not be removed
